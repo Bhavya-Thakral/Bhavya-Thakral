@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Bhavya Thakral</h1>
-<h3 align="center">A passionate frontend developer with good knowledge in HTML, CSS, JavaScript and Java.</h3>
+<h3 align="center">A passionate frontend developer with good knowledge in HTML,Tailwind CSS, JavaScript, React and React-Native </h3>
 
-- 🌱 I’m currently learning **Full Stack Development using JavaScript,NodeJs,Express,MongoDB**
+- 🌱 I’m currently learning **Frontend Development using JavaScript, React, React-native**
 
-- 💬 Ask me about **Java, HTML, CSS, JavaScript, MySQL**
+- 💬 Ask me about **React, React-native, HTML, Tailwind CSS, JavaScript**
 
-- 📫 How to reach me **abcbhavya3@gmail.com**
+- 📫 How to reach me **bhavyathakral.btt@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
